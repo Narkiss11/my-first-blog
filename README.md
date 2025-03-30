@@ -1,4 +1,4 @@
-## About Me :smile:
+## About Me 👩‍💻:
 Hi, I’m Nergis! I’m a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, front-end development, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
 - :seedling:  I’m currently exploring **Web Development** and **Front-end Development**.
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
